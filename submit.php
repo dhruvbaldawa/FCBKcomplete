@@ -1,1 +1,3 @@
-<?php print_r($_REQUEST); ?>
+<pre>
+<?php print_r($_POST); ?>
+</pre>
